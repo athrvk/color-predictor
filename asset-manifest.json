@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/color-predictor/static/css/main.9ebaf2bf.chunk.css",
+    "main.js": "/color-predictor/static/js/main.26679e7c.chunk.js",
+    "main.js.map": "/color-predictor/static/js/main.26679e7c.chunk.js.map",
+    "runtime-main.js": "/color-predictor/static/js/runtime-main.77ecc5b2.js",
+    "runtime-main.js.map": "/color-predictor/static/js/runtime-main.77ecc5b2.js.map",
+    "static/js/2.de2e47e1.chunk.js": "/color-predictor/static/js/2.de2e47e1.chunk.js",
+    "static/js/2.de2e47e1.chunk.js.map": "/color-predictor/static/js/2.de2e47e1.chunk.js.map",
+    "index.html": "/color-predictor/index.html",
+    "precache-manifest.d9876aff44214c8608cafebddabad35b.js": "/color-predictor/precache-manifest.d9876aff44214c8608cafebddabad35b.js",
+    "service-worker.js": "/color-predictor/service-worker.js",
+    "static/css/main.9ebaf2bf.chunk.css.map": "/color-predictor/static/css/main.9ebaf2bf.chunk.css.map",
+    "static/js/2.de2e47e1.chunk.js.LICENSE.txt": "/color-predictor/static/js/2.de2e47e1.chunk.js.LICENSE.txt",
+    "static/js/main.26679e7c.chunk.js.LICENSE.txt": "/color-predictor/static/js/main.26679e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ecc5b2.js",
+    "static/js/2.de2e47e1.chunk.js",
+    "static/css/main.9ebaf2bf.chunk.css",
+    "static/js/main.26679e7c.chunk.js"
+  ]
+}
