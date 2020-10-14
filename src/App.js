@@ -1,24 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import MyColor from './components/ColorScheme';
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <br></br>
+
+      <h2>Choose a color according to what you're feeling now!</h2>
+      <button className="btn-info border-0 rounded" onClick={()=>{window.location.reload(false)}}>Reset!</button>
+      <hr></hr>
+      
+      <MyColor />
     </div>
   );
 }
